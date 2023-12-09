@@ -1,5 +1,14 @@
 # HR-Employee Distribution Dashboard
 
+## TABLE OF CONTENTS
+[Data Used](#data-used)
+
+[Questions](#questions)
+
+[Summary of Findings](#summary-of-findings)
+
+[Limitations](#limitations)
+
 ![Screenshot 2023-12-09 140752](https://github.com/hardika001/HR-Employee-Distribution-Dashboard/assets/141905140/aad2e9ed-3533-4417-be38-6d9e87647e7f)
 
 ## Data Used 
